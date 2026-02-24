@@ -1,5 +1,10 @@
 ## Hi there 👋
+#Jasmin  Resume
 
+##Education
+**Northeastern University**, Khoury College of Computer Sciences
+**Candidate: Bachelor of Computer Science and Communications**
+**Boston, MA * Sep 2024-May 2028**
 <!--
 **IHeartJankBoteko/IHeartJankBoteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
